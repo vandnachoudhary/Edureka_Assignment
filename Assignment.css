@@ -1,0 +1,77 @@
+
+
+
+
+.navbar{
+    background-color:rgb(212, 7, 0);
+
+    
+}
+
+
+#logo
+{
+    margin-left: 10px;
+    text-align: center;
+    color: rgb(212, 7, 0);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    position: relative;
+    height: 70px;
+    width: 70px;
+    font-size: 40px;
+    border-radius: 80%;
+    
+
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color:white;
+}
+
+.Restaurant_name{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    text-align: center;
+
+}
+.img-wrapper{
+    text-align: center;
+    
+}
+
+.img-overlay{
+    position: absolute;
+    top: 100;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+.position-relative{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color:#192f60;
+    background-color: white;
+}
+
+.nav-item{
+    float: left;
+    background-color: rgb(212, 7, 0);
+}
+
+#overview{
+    text-align: center;
+    font-family:'Poppins', sans-serif ;
+    color: #192f60;
+}
+
+#contact{
+    text-align: center;
+    font-family:'Poppins', sans-serif ;
+    color: #192f60;
+
+}
