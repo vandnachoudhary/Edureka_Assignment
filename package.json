@@ -1,0 +1,28 @@
+{
+  "name": "resapi",
+  "version": "1.0.0",
+  "description": "Description about restaurants",
+  "main": "resapi.js",
+  "scripts": {
+    "start": "node resapi.js",
+    "dev": "nodemon resapi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandnachoudhary/Edureka_Assignment.git"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "edureka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandnachoudhary/Edureka_Assignment/issues"
+  },
+  "homepage": "https://github.com/vandnachoudhary/Edureka_Assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0"
+  }
+}
